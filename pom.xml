@@ -1,0 +1,6 @@
+<distributionManagement>
+    <repository>
+        <id>my.mvn.repo</id>
+        <url>https://github.com/SimenB/maven-repo/raw/master</url>
+    </repository>
+</distributionManagement>
