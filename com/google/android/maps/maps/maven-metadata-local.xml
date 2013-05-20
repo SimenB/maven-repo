@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.android.maps</groupId>
+  <artifactId>maps</artifactId>
+  <versioning>
+    <release>16_r3</release>
+    <versions>
+      <version>17_r2</version>
+      <version>16_r3</version>
+    </versions>
+    <lastUpdated>20130520200739</lastUpdated>
+  </versioning>
+</metadata>
