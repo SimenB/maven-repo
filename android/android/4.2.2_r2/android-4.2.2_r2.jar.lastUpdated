@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat May 18 15:32:06 CEST 2013
+https\://bitbucket.org/simenb/maven-repo/raw/tip/.lastUpdated=1368561385556
+default-https\://github.com/SimenB/maven-repo/raw/master/.lastUpdated=1368561463532
+http\://repo.maven.apache.org/maven2/.lastUpdated=1368883926315
+https\://bitbucket.org/simenb/maven-repo/raw/master/.lastUpdated=1368561605664
+https\://github.com/SimenB/maven-repo/raw/master/.error=Could not transfer artifact android\:android\:jar\:4.2.2_r2 from/to my.github.mvn.repo (https\://github.com/SimenB/maven-repo/raw/master)\: Access denied to\: https\://github.com/SimenB/maven-repo/raw/master/android/android/4.2.2_r2/android-4.2.2_r2.jar , ReasonPhrase\:Forbidden.
+https\://bitbucket.org/simenb/maven-repo/raw/tip/.error=
+http\://repo.maven.apache.org/maven2/.error=
