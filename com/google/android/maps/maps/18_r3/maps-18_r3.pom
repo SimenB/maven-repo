@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.google.android.maps</groupId>
   <artifactId>maps</artifactId>
-  <version>17_r2</version>
+  <version>18_r3</version>
   <description>POM was created from install:install-file</description>
 </project>

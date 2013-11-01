@@ -3,11 +3,11 @@
   <groupId>com.google.android.maps</groupId>
   <artifactId>maps</artifactId>
   <versioning>
-    <release>16_r3</release>
+    <release>19_r1</release>
     <versions>
-      <version>17_r2</version>
-      <version>16_r3</version>
+      <version>18_r3</version>
+      <version>19_r1</version>
     </versions>
-    <lastUpdated>20130520200739</lastUpdated>
+    <lastUpdated>20131101102459</lastUpdated>
   </versioning>
 </metadata>
